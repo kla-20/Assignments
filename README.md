@@ -1,3 +1,3 @@
-# Assignments on Python for Courses 
-# 1. Optimization Techniques 
-# 2. Inferential Statistics
+# Python Assignments on Courses:
+ 1. Optimization Techniques
+ 2. Inferential Statistics
