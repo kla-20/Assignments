@@ -1,3 +1,3 @@
 # Python Assignments on Courses:
- 1. Optimization Techniques
- 2. Inferential Statistics
+ 1. Optimization Techniques(MDSC-103)
+ 2. Inferential Statistics(MDSC-102)
